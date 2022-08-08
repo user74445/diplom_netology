@@ -30,7 +30,7 @@
 - Настроен хостинг DNS для домена в YandexCloud `ns1.yandexcloud.net` и `ns2.yandexcloud.net`
 
 
-Создан S3 bucket YC аккаунте.
+Создан S3 bucket в YC аккаунте.
 ![](pics/pic_1.png)
 
 ## Создание инфраструктуры
